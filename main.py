@@ -1,4 +1,4 @@
-# Calculator (Version 1) Using the kivy Library in Python
+# Calculator in Python
 
 from kivy.app import App
 from kivy.uix.button import Button
